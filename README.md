@@ -80,7 +80,9 @@ The Google collabs can be accessed directly on GitHub, too
 
 
 ### Deployment Plan
-- Models to be hosted on Roboflow
+- Models to be hosted on Roboflow and also accessible offline
+
+- Misala Mobile App to be accessible offline and also online via an affordable cloud provider
 
 - Models to be integrated with the Misala Mobile App for a good user experience and interaction with the solution
 
