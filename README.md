@@ -11,6 +11,11 @@ The project consists of:
 
 [PROPOSAL](https://docs.google.com/document/d/1RpQLqegaGXdicoSxc8O93Bt4YJyuiTJr/edit?usp=sharing&ouid=116463373145295427131&rtpof=true&sd=true)
 
+### Research Proposal Ethics(06/26/2025)
+
+[ETHICS](https://docs.google.com/document/d/1k04BnqFJsXRbZZnlnVRXHFbMtiW8qRHyvEXEWvozRh0/edit?usp=sharing)
+
+
 ---
 
 ## 2. **Initial Software Product/Solution Demonstration(06/08/2025)**
