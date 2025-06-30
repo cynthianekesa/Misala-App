@@ -14,7 +14,7 @@ from fastapi.middleware.cors import CORSMiddleware
 app = FastAPI()
 
 origins = [
-    "http://127.0.0.1:8000",
+    "http://127.0.0.1:8001",
 ]
 
 # Configure CORS
@@ -72,5 +72,5 @@ async def main():
     return HTMLResponse(content="<h1>Upload an image for prediction</h1>")
 
 if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 8000)) 
+    port = int(os.environ.get("PORT", 8001)) 
     uvicorn.run(app, host="0.0.0.0", port=port)
