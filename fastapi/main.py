@@ -37,7 +37,7 @@ async def validation_exception_handler(request, exc):
     )
 
 # Load the pre-trained model
-MODEL = tf.keras.models.load_model('model1.h5')
+MODEL = tf.keras.models.load_model('./fastapi/model1.h5')
 CLASS_NAMES = ['Aloe vera','Amaranthus-Viridis','Basale','Betel','Carissa-Karanda','Curry plant','Ficus-Auriculata','Ginger','Guava leaf','Hibiscus','Holy Basil','Jackfruit','Jamaica-Cherry','Jasmine','Lemon','Mango','Mint','Moringa','Mustard','Neem','Oleander','Pappaya','Peepal','Rasna','Sandalwood plant','Turmeric plant','Unlabeled']
 
 #def read_file_as_image(data) -> np.ndarray:
