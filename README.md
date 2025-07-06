@@ -98,26 +98,6 @@ The Google collabs can be accessed directly on GitHub, too
 
 ---
 
-# Misala App
-## 1. **About the Project**
-Misala is an ML-powered mobile app that automates the identification and multilingual documentation of traditional African medicinal plants, preserving indigenous knowledge, promoting biodiversity conservation, and enhancing community health.
-
-The project consists of:
-- African medicinal plant identification model
-- NLP Rule-Based Chatbot
-- Reinforcement learning + identification model for drone simulation
-
-### Research Proposal(05/28/2025)
-
-[PROPOSAL](https://docs.google.com/document/d/1RpQLqegaGXdicoSxc8O93Bt4YJyuiTJr/edit?usp=sharing&ouid=116463373145295427131&rtpof=true&sd=true)
-
-### Research Proposal Ethics(06/26/2025)
-
-[ETHICS](https://docs.google.com/document/d/1k04BnqFJsXRbZZnlnVRXHFbMtiW8qRHyvEXEWvozRh0/edit?usp=sharing)
-
-
----
-
 ## 2. **Final Version of Product/Solution(07/07/2025)**
 
 ### Discussion 
