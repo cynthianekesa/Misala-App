@@ -97,3 +97,18 @@ The Google collabs can be accessed directly on GitHub, too
 [DEMO 2:Figma design](https://www.loom.com/share/ccedd95b5ca045d48458f4decce47efe?sid=c0ac3196-f3dd-42a8-8dff-0aa1d3c94416) 
 
 ---
+
+## 2. **Final Version of Product/Solution(07/07/2025)**
+
+### Discussion 
+https://docs.google.com/document/d/1HPm0eI6mJhf1iMHqgrXYsI-u7PXo-DiJoFUqzTaY8PE/edit?usp=sharing
+
+
+### Environment and Project Setup
+- Every directory has project setup procedures.
+
+
+### Video Demo and apk
+https://drive.google.com/drive/folders/1t8IZyRJ25tv2JuG1cWdDpuUVNPzhJMHn?usp=drive_link
+
+---
