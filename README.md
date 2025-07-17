@@ -150,23 +150,28 @@ The Google collabs can be accessed directly on GitHub, too
 - The role of the bot includes:
 
   **Contextual Q&A and clarification**: Explain unfamiliar terms or break down preparation steps if the user is confused. e.g
+
   User: “What does decoction mean?”
   Bot: “Decoction means boiling plant parts (like bark or roots) in water to extract the medicine.”
   
   **Usage guidance based on symptoms**: This makes the app feel like a helper, not just a database. e.g
+
   User: “What plant helps with toothache?”
   Bot: “You can try clove or guava leaf. Would you like to scan one of them?”
   
   **Side effects and warnings**: e.g
+
   User: “Can I take this if I’m pregnant?”
   Bot: “This plant is not recommended during pregnancy. Please consult a trained herbalist.”
   
   **Cultural and traditional wisdom**: The chatbot will enrich the experience by offering extra context hence cultural preservation. e.g
+
   User: “How was this used traditionally?”
   Bot: “Among the Bukusu, holy basil was burned to ward off evil spirits, aside from its medicinal uses.”
   
   **Navigation support**: e.g
-  User: “Where is the Community Wisdom section?”
+
+   User: “Where is the Community Wisdom section?”
   Bot: “Tap the bottom menu and select the community icon.”
 
 - Chatbot behaviour:
