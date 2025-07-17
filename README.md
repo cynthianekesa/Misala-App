@@ -112,21 +112,22 @@ The Google collabs can be accessed directly on GitHub, too
     
 - MobileNetV2 Base Model Option 1
   - Model that was eventually hosted and used for the mobile app and reinforcement learning
-  - Test Accuracy: 0.9382274150848389 and Test Loss: 0.21519993245601654
+  - Test Accuracy: `0.9382274150848389` and Test Loss: `0.21519993245601654`
   - Model Summary
   <img width="678" height="282" alt="image" src="https://github.com/user-attachments/assets/06d5c40b-eeef-47ca-abba-e15e31911a16" />
   
 - MobileNetV2 Base Model Option 2
   - Model performed close to option 1 on test dataset
-  - Final training accuracy: 0.9205357432365417 and Final validation accuracy: 0.38155514001846313
+  - Final training accuracy: `0.9205357432365417` and Final validation accuracy: `0.38155514001846313`
   - Model Summary
   <img width="657" height="336" alt="image" src="https://github.com/user-attachments/assets/07babdfd-9424-4c97-bf2d-3e7a0fe08b44" />
   
 - Xception Base Model
   - Model provided good results for partitioned data but on testing it performed very poorly
-  - Accuracy: 0.9990 and loss: 0.0070
+  - Accuracy: `0.9990` and loss: `0.0070`
   - Model Summary
   <img width="667" height="331" alt="image" src="https://github.com/user-attachments/assets/dfa13dd4-57c1-43fc-bfb8-87adb4f8e41f" />
+  
   - Model accuracy and loss graph
   <img width="572" height="455" alt="image" src="https://github.com/user-attachments/assets/3f577f33-c125-4367-8c1d-c61e12e6e6de" />
   
@@ -134,8 +135,10 @@ The Google collabs can be accessed directly on GitHub, too
   - Training accuracy and loss was too low
   - Model Image
   <img width="113" height="418" alt="image" src="https://github.com/user-attachments/assets/8c32c238-6950-4837-ba1f-a30f270f0188" />
+  
   - Training and validation accuracy/loss
   <img width="1156" height="706" alt="image" src="https://github.com/user-attachments/assets/e013ce36-f227-4faf-aec2-9c6d7a9f03f0" />
+  
 - InceptionV3, EfficientNet Base Model and VGG16
   - The three equally performed poorly
 
