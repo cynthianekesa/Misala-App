@@ -111,7 +111,7 @@ The Google collabs can be accessed directly on GitHub, too
   - Alexnet could also have been a good option but I didn't get to explore it
     
 - MobileNetV2 Base Model Option 1
-  - Model that was eventually hosted and used for the mobile app and reinforcement learning
+  - Model that was eventually hosted and used for the mobile app and reinforcement learning. Created a FASTAPI for the model and hosted on render(free tier). Documentations and link         found in the `README.md` of the 'plant identification model' folder.
   - Test Accuracy: `0.9382274150848389` and Test Loss: `0.21519993245601654`
   - Model Summary
   <img width="678" height="282" alt="image" src="https://github.com/user-attachments/assets/06d5c40b-eeef-47ca-abba-e15e31911a16" />
@@ -184,11 +184,28 @@ The Google collabs can be accessed directly on GitHub, too
 <img width="1362" height="552" alt="image" src="https://github.com/user-attachments/assets/03c6adeb-4bb0-454e-8332-623b61558b69" />
 
 
-
-
 ### Drone Simulation
 
-### Misala Mobile App 
+
+
+
+### Misala Mobile App
+
+**A. Testing**
+- Testing strategies
+  - Unit testing
+  - Integration testing
+  - End to End testing
+  - Snapshot testing
+  - Visual regression testing
+  - Performance testing
+
+- Screenshots of testing with different values and software/hardware specifications
+App Icon                                                                                                                           
+![WhatsApp Image 2025-07-17 at 12 17 01_659c3bbd](https://github.com/user-attachments/assets/ac3b9daf-8f95-4551-8fcd-adfaf16f1772)  
+
+
+
 ### Discussion 
 https://docs.google.com/document/d/1HPm0eI6mJhf1iMHqgrXYsI-u7PXo-DiJoFUqzTaY8PE/edit?usp=sharing
 
