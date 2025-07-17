@@ -98,7 +98,7 @@ The Google collabs can be accessed directly on GitHub, too
 
 ---
 
-## 2. **Final Version of Product/Solution(07/07/2025)**: Testing, Analysis, Discussion, and Recommendations
+## 3. **Final Version of Product/Solution(07/07/2025)**: Testing, Analysis, Discussion, and Recommendations
 
 ### Plant Identification Model
 
@@ -200,7 +200,7 @@ The Google collabs can be accessed directly on GitHub, too
   - Visual regression testing
   - Performance testing
 
-- Screenshots of testing with different values and software/hardware specifications
+- Screenshots of testing with different data values and software/hardware specifications
 
 <table>
   <tr>
@@ -219,8 +219,8 @@ The Google collabs can be accessed directly on GitHub, too
      <td>ATM GuideBooks</td>
      <td>Blog Page</td>
      <td>Misala Bot</td>
-     
   </tr>
+  <tr>
     <td><img src="Data/screenshots/misala icon.jpg" width=270 height=480></td>
     <td><img src="Data/screenshots/registration page.jpg" width=270 height=480></td>
     <td><img src="Data/screenshots/terms and conditions.jpg" width=270 height=480></td>
@@ -237,25 +237,59 @@ The Google collabs can be accessed directly on GitHub, too
     <td><img src="Data/screenshots/blog page.jpg" width=270 height=480></td>
     <td><img src="Data/screenshots/misala bot.jpg" width=270 height=480></td>
   </tr>
-  </table>
+</table>
 
+**B. Analysis**
+- Overall objective of the project which was to "To develop an ML-powered mobile app that identifies African traditional medicinal plants and provides verified information(name, ailment treated, mode of preparation/administration) in English and Luhya in order to preserve indigenous knowledge, conserve biodiversity, and improve community health." was achieved.
+- The deiverables defined as inscope in the project proposal as well as supporting research questions were all achieved.
+- Among proposed functional features, I missed incorporating:
+  - User Testimonials
+  - Multi-organ identification(partially fulfilled based on available data)
+  - Offline mode for plant identification
+  - Allowing users to bookmark their favourite identified plants
+- Among non-functional requirements, I missed incorporating:
+  - Plant identification processing in <5 seconds because of using render free tier
+  - Screen readers for visually impaired people
+  - App does not support iOS
+- Among ethical considerations, I missed incorporating:
+  - Data retention policy
+  - Giving benefit-sharing clause to community herbalists to sign
+  - Local processing of sensitive data
 
+**C. Discussion**
+- A detailed discussion on the importance of the milestones and the impact of the results with the supervisor can be found in the link below under meeting 3.
 
+https://docs.google.com/document/d/1YIj5ygNOFcORUX8FpwQec8UcGWwMOHqyCTcVhAcK0jo/edit?usp=sharing
 
+**D. Recommendations**
 
+- *Use Cases*
+  - Herbal Medicine Identification: Helping people identify medicinal plants for traditional remedies and herbal medicine preparation.
+  - Botanical Research: Assisting botanists and researchers in studying plant species diversity and distribution for conservation efforts.
+  - Pharmacological Studies: Supporting pharmacologists in understanding the therapeutic properties of different plants for drug discovery and development.
+  - Medical Education: Providing educational resources for students and healthcare professionals to learn about medicinal plants and their uses.
+  - Consumer Safety: Ensuring consumers can accurately identify and use medicinal plants without the risk of misidentification or harmful effects.
 
+- *Future Work*
+  - Showing active ingredients and constituents of the medicinal plants.
+  - When a plant is identified, a video of its preparation and quantity is included, and also tells if the plant is endangered.
+  - A discussion forum for users to get more clarity from ATM specialists if needed(available to premium users).
+  - Telemedicine scheduling feature with ATM professionals(premium feature).  
+  - Gamification of the app, such that users can get rewards for contributing data.
+  - More research into machine learning use cases in studying the molecular and structural composition of medicinal plants for use in viral diseases.
+  - Write a research paper on the use of drones in identifying medicinal plants in large plantations like forests.
 
+### Video Demo and apk
 
-
-### Discussion 
-https://docs.google.com/document/d/1HPm0eI6mJhf1iMHqgrXYsI-u7PXo-DiJoFUqzTaY8PE/edit?usp=sharing
-
+https://drive.google.com/drive/folders/1t8IZyRJ25tv2JuG1cWdDpuUVNPzhJMHn?usp=drive_link
 
 ### Environment and Project Setup
 - Every directory has project setup procedures.
 
-
-### Video Demo and apk
-https://drive.google.com/drive/folders/1t8IZyRJ25tv2JuG1cWdDpuUVNPzhJMHn?usp=drive_link
+### Contribution
+- Please make a pull request before contributing or email `c.nekesa@alustudent.com` incase of any inquiries.
 
 ---
+
+## 4. **Contribution**
+
