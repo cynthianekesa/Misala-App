@@ -291,7 +291,8 @@ The Google collabs can be accessed directly on GitHub, too
   - Showing active ingredients and constituents of the medicinal plants.
   - When a plant is identified, a video of its preparation and quantity is included, and also tells if the plant is endangered.
   - A discussion forum for users to get more clarity from ATM specialists if needed(available to premium users).
-  - Telemedicine scheduling feature with ATM professionals(premium feature).  
+  - Telemedicine scheduling feature with ATM professionals(premium feature).
+  - Access to specialized and localized ATM guidebooks(premium feature).  
   - Gamification of the app, such that users can get rewards for contributing data.
   - More research into machine learning use cases in studying the molecular and structural composition of medicinal plants for use in viral diseases.
   - Write a research paper on the use of drones in identifying medicinal plants in large plantations like forests.
