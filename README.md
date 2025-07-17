@@ -144,13 +144,34 @@ The Google collabs can be accessed directly on GitHub, too
 
 
 ### MisalaBot
-- I figured out training an NLP rule-based chatbot using the NLTK library 
+- I figured out training an NLP rule-based chatbot using the NLTK library as demonstrated in the google colab notebook in the MisalaBot folder was too rigid for what I wanted the chatbot to deliver. If I was to try to make it not rigid(self-learning), then I needed an [intents.json] file for the chatbot which was not easy to make for the case of african medicinal plants. Also, incorporating the trained chatbot on a mobile app would be a real hassle.
+- The second option was to design a simple GUI using the Python Tkinter module where a text box is created and button to submit user intent and on the action, a function is built where  user intent is matched so as to be responded to.
+- I didn't use either of the above options and instead opted to creating a customized chatbot for african medicinal plants using botpress. Dialogue flows and rules of the chatbot are found in the 'instructions.md' file in the misalabot folder.
+- The role of the bot includes:
+**Contextual Q&A and clarification**: Explain unfamiliar terms or break down preparation steps if the user is confused. e.g
+  User: “What does decoction mean?”
+  Bot: “Decoction means boiling plant parts (like bark or roots) in water to extract the medicine.”
+**Usage guidance based on symptoms**: This makes the app feel like a helper, not just a database. e.g
+  User: “What plant helps with toothache?”
+  Bot: “You can try clove or guava leaf. Would you like to scan one of them?”
+**Side effects and warnings**: e.g
+  User: “Can I take this if I’m pregnant?”
+  Bot: “This plant is not recommended during pregnancy. Please consult a trained herbalist.”
+**Cultural and traditional wisdom**: The chatbot will enrich the experience by offering extra context hence cultural preservation. e.g
+  User: “How was this used traditionally?”
+  Bot: “Among the Bukusu, holy basil was burned to ward off evil spirits, aside from its medicinal uses.”
+**Navigation support**: e.g
+  User: “Where is the Community Wisdom section?”
+  Bot: “Tap the bottom menu and select the community icon.”
+
+<img width="1362" height="552" alt="image" src="https://github.com/user-attachments/assets/03c6adeb-4bb0-454e-8332-623b61558b69" />
+
 
 
 
 ### Drone Simulation
 
-
+### Misala Mobile App 
 ### Discussion 
 https://docs.google.com/document/d/1HPm0eI6mJhf1iMHqgrXYsI-u7PXo-DiJoFUqzTaY8PE/edit?usp=sharing
 
