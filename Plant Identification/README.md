@@ -27,11 +27,14 @@ python main.py
 4. Hosted fastapi on render can be accessed through:
 
 - https://image-prediction-uzi7.onrender.com
+  
 
-5. Add /docs to use /predict endpoint.
+5. Add `/docs` to use `/predict` endpoint.
+   
 
-6. Add /redoc to view fastapi documentation
+7. Add `/redoc` to view fastapi documentation
+   
 
-7. View the plant identification collab notebook incase you want to understand model training.
+9. View the plant identification collab notebook incase you want to understand model training.
 
 ---
