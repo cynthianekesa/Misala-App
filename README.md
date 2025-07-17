@@ -98,7 +98,49 @@ The Google collabs can be accessed directly on GitHub, too
 
 ---
 
-## 2. **Final Version of Product/Solution(07/07/2025)**
+## 2. **Final Version of Product/Solution(07/07/2025)** Testing, Analysis, Discussion, and Recommendations
+
+### Plant Identification Model
+
+- Data Quality
+<img width="547" height="104" alt="image" src="https://github.com/user-attachments/assets/3242c6a3-9d77-4088-95b5-05a50b424e70" />
+- Vanilla model & use of optimization techniques
+  - Vanilla model performed poorly and on using optimization techniques still got the same results despite using a lot of resources
+  - This led to opting for pre-trained image models and fine tuning them with my data since most of them are trained on western images with less focus on medicinal plants
+  - Alexnet could also have been a good option but I didn't get to explore it
+- MobileNetV2 Base Model Option 1
+  - Model that was eventually hosted and used for the mobile app and reinforcement learning
+  - Test Accuracy: 0.9382274150848389 and Test Loss: 0.21519993245601654
+  - Model Summary
+  <img width="678" height="282" alt="image" src="https://github.com/user-attachments/assets/06d5c40b-eeef-47ca-abba-e15e31911a16" />
+- MobileNetV2 Base Model Option 2
+  - Model performed close to option 1 on test dataset
+  - Final training accuracy: 0.9205357432365417 and Final validation accuracy: 0.38155514001846313
+  - Model Summary
+  <img width="657" height="336" alt="image" src="https://github.com/user-attachments/assets/07babdfd-9424-4c97-bf2d-3e7a0fe08b44" />
+- Xception Base Model
+  - Model provided good results for partitioned data but on testing it performed very poorly
+  - Accuracy: 0.9990 and loss: 0.0070
+  - Model Summary
+  <img width="667" height="331" alt="image" src="https://github.com/user-attachments/assets/dfa13dd4-57c1-43fc-bfb8-87adb4f8e41f" />
+  - Model accuracy and loss graph
+  <img width="572" height="455" alt="image" src="https://github.com/user-attachments/assets/3f577f33-c125-4367-8c1d-c61e12e6e6de" />
+- Resnet
+  - Training accuracy and loss was too low
+  - Model Image
+  <img width="113" height="418" alt="image" src="https://github.com/user-attachments/assets/8c32c238-6950-4837-ba1f-a30f270f0188" />
+  - Training and validation accuracy/loss
+  <img width="1156" height="706" alt="image" src="https://github.com/user-attachments/assets/e013ce36-f227-4faf-aec2-9c6d7a9f03f0" />
+- InceptionV3, EfficientNet Base Model and VGG16
+  - The three equally performed poorly
+
+### MisalaBot
+- I figured out training an NLP rule-based chatbot using the NLTK library 
+
+
+
+### Drone Simulation
+
 
 ### Discussion 
 https://docs.google.com/document/d/1HPm0eI6mJhf1iMHqgrXYsI-u7PXo-DiJoFUqzTaY8PE/edit?usp=sharing
