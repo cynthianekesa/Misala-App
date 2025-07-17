@@ -204,14 +204,39 @@ The Google collabs can be accessed directly on GitHub, too
 
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+     <td>App Icon</td>
+     <td>Registration Page</td>
+     <td>Terms and Conditions </td>
+     <td>Sign in Page</td>
+     <td>Edit Profile</td>
+     <td>Take Image</td>
+     <td>Prediction Page</td>
+     <td>Predicted Plant Info</td>
+     <td>Plant Prediction History</td>
+     <td>Report Prediction</td>
+     <td>Uploading Plant Remedy</td>
+     <td>Sustainable Harvesting</td>
+     <td>ATM GuideBooks</td>
+     <td>Blog Page</td>
+     <td>Misala Bot</td>
+     
   </tr>
   <tr>
-    <td><img src="screenshots/Screenshot_1582745092.png" width=270 height=480></td>
-    <td><img src="screenshots/Screenshot_1582745125.png" width=270 height=480></td>
-    <td><img src="screenshots/Screenshot_1582745139.png" width=270 height=480></td>
+    <td><img src="Data/screenshots/misala icon.jpg" width=270 height=480></td>
+    <td><img src="Data/screenshots/registration page.jpg" width=270 height=480></td>
+    <td><img src="Data/screenshots/terms and conditions.jpg" width=270 height=480></td>
+    <td><img src="Data/screenshots/log in page.jpg" width=270 height=480></td>
+    <td><img src="Data/screenshots/edit profile.jpg" width=270 height=480></td>
+    <td><img src="Data/screenshots/take image.jpg" width=270 height=480></td>
+    <td><img src="Data/screenshots/prediction.jpg" width=270 height=480></td>
+    <td><img src="Data/screenshots/plant info.jpg" width=270 height=480></td>
+    <td><img src="Data/screenshots/plant history.jpg" width=270 height=480></td>
+    <td><img src="Data/screenshots/report prediction issue.jpg" width=270 height=480></td>
+    <td><img src="Data/screenshots/uploading plant remedies.jpg" width=270 height=480></td>
+    <td><img src="Data/screenshots/sustainable harvesting.jpg" width=270 height=480></td>
+    <td><img src="Data/screenshots/upload guidebook.jpg" width=270 height=480></td>
+    <td><img src="Data/screenshots/blog page.jpg" width=270 height=480></td>
+    <td><img src="Data/screenshots/misala bot.jpg" width=270 height=480></td>
   </tr>
  </table>
 
