@@ -15,6 +15,10 @@ The project consists of:
 
 [ETHICS](https://docs.google.com/document/d/1k04BnqFJsXRbZZnlnVRXHFbMtiW8qRHyvEXEWvozRh0/edit?usp=sharing)
 
+### Research Report(07/18/2025)
+
+[REPORT](
+
 
 ---
 
@@ -185,6 +189,15 @@ The Google collabs can be accessed directly on GitHub, too
 
 
 ### Drone Simulation
+- Improved environment from initial submission:
+
+<img width="518" height="528" alt="image" src="https://github.com/user-attachments/assets/94ecd5a8-8424-4890-8617-59e3ef05f0ee" />
+
+- Saved PPO model trained on Cnn policy under epsilon-greedy Q algorithmn is saved in the `data` folder and achieved an average reward of ``
+
+- Drone plant identification using saved policy in a gif:
+
+
 
 
 
@@ -259,7 +272,7 @@ The Google collabs can be accessed directly on GitHub, too
 **C. Discussion**
 - A detailed discussion on the importance of the milestones and the impact of the results with the supervisor can be found in the link below under meeting 3.
 
-https://docs.google.com/document/d/1YIj5ygNOFcORUX8FpwQec8UcGWwMOHqyCTcVhAcK0jo/edit?usp=sharing
+  - https://docs.google.com/document/d/1YIj5ygNOFcORUX8FpwQec8UcGWwMOHqyCTcVhAcK0jo/edit?usp=sharing
 
 **D. Recommendations**
 
@@ -278,10 +291,11 @@ https://docs.google.com/document/d/1YIj5ygNOFcORUX8FpwQec8UcGWwMOHqyCTcVhAcK0jo/
   - Gamification of the app, such that users can get rewards for contributing data.
   - More research into machine learning use cases in studying the molecular and structural composition of medicinal plants for use in viral diseases.
   - Write a research paper on the use of drones in identifying medicinal plants in large plantations like forests.
+  - Incorporating user feedback during testing.
 
 ### Video Demo and apk
 
-https://drive.google.com/drive/folders/1t8IZyRJ25tv2JuG1cWdDpuUVNPzhJMHn?usp=drive_link
+- https://drive.google.com/drive/folders/1t8IZyRJ25tv2JuG1cWdDpuUVNPzhJMHn?usp=drive_link
 
 ### Environment and Project Setup
 - Every directory has project setup procedures.
@@ -290,6 +304,4 @@ https://drive.google.com/drive/folders/1t8IZyRJ25tv2JuG1cWdDpuUVNPzhJMHn?usp=dri
 - Please make a pull request before contributing or email `c.nekesa@alustudent.com` incase of any inquiries.
 
 ---
-
-## 4. **Contribution**
 
