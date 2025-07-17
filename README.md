@@ -183,6 +183,10 @@ The Google collabs can be accessed directly on GitHub, too
   
   Bot: “Tap the bottom menu and select the community icon.”
 
+- Link to hosted bot:
+  
+  - https://cdn.botpress.cloud/webchat/v3.0/shareable.html?configUrl=https://files.bpcontent.cloud/2025/07/03/12/20250703121251-4H17SV03.json
+
 - Chatbot behaviour:
 
 <img width="1362" height="552" alt="image" src="https://github.com/user-attachments/assets/03c6adeb-4bb0-454e-8332-623b61558b69" />
