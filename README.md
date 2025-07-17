@@ -201,7 +201,20 @@ The Google collabs can be accessed directly on GitHub, too
   - Performance testing
 
 - Screenshots of testing with different values and software/hardware specifications
-- 
+
+<table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/Screenshot_1582745092.png" width=270 height=480></td>
+    <td><img src="screenshots/Screenshot_1582745125.png" width=270 height=480></td>
+    <td><img src="screenshots/Screenshot_1582745139.png" width=270 height=480></td>
+  </tr>
+ </table>
+ 
 ![WhatsApp Image 2025-07-17 at 13 19 49_c5a087ef](https://github.com/user-attachments/assets/33a21ed7-bfbe-44bc-bd9d-4d5e16228b7d)![WhatsApp Image 2025-07-17 at 13 19 26_c6ccfa62](https://github.com/user-attachments/assets/0d1877b4-7a40-4ee1-a33c-fe4b723a19fd)![WhatsApp Image 2025-07-14 at 14 22 17_60b8ceb7](https://github.com/user-attachments/assets/e9334f4b-dfb9-4132-97ac-d0a38b269a55)![WhatsApp Image 2025-07-14 at 14 22 18_efb521b9](https://github.com/user-attachments/assets/e3222ffa-c955-4a4c-9fa8-438a4f311d89)![WhatsApp Image 2025-07-17 at 13 19 25_418435ee](https://github.com/user-attachments/assets/b6650a22-8620-40fe-ae66-564c5ab0474b)![WhatsApp Image 2025-07-17 at 13 19 24_010a88a7](https://github.com/user-attachments/assets/5eb580c6-ea47-489b-98cd-4178551c0863)![WhatsApp Image 2025-07-14 at 14 36 55_7b221838](https://github.com/user-attachments/assets/95471a5e-e75f-489e-8bb6-1049b85f57d8)
 ![WhatsApp Image 2025-07-17 at 13 19 24_c4a4ef64](https://github.com/user-attachments/assets/317db330-8414-4ccd-b732-5a8fcb9576ec)
 
