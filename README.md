@@ -17,7 +17,7 @@ The project consists of:
 
 ### Research Report(07/18/2025)
 
-[REPORT](
+[REPORT](https://docs.google.com/document/d/1Q4uR6goaZxUQDYBmiPQxomWPxmpqAflu/edit?usp=sharing&ouid=116463373145295427131&rtpof=true&sd=true)
 
 
 ---
@@ -197,25 +197,24 @@ The Google collabs can be accessed directly on GitHub, too
 
 <img width="518" height="528" alt="image" src="https://github.com/user-attachments/assets/94ecd5a8-8424-4890-8617-59e3ef05f0ee" />
 
-- Saved PPO model trained on Cnn policy under epsilon-greedy Q algorithmn is saved in the `data` folder and achieved an average reward of ``
+- Saved PPO model trained on Cnn policy under epsilon-greedy Q algorithmn is saved in the `Drone Simulation` folder together with the logs, checkpoints and tensorboard progress.
 
-- Drone plant identification using saved policy in a gif:
+- Drone plant identification using saved policy in a gif is found in the `Data` folder. This gif shows the potential of using ML together with drone technology to enable identification of ATM in places where phones can't be used. Building upon this would be to fine-tune the PPO policy to perform even better.
 
+- Average reward over 10 episodes:
+- Intepretation of graph can be found in the research report.
 
-
-
-
-
+![WhatsApp Image 2025-07-23 at 19 03 00_27b71224](https://github.com/user-attachments/assets/7a10b20f-86cd-4355-8522-ade676fda630)
+ 
 ### Misala Mobile App
 
 **A. Testing**
-- Testing strategies
+- Testing strategies: Explained in detail in the research report.
   - Unit testing
   - Integration testing
-  - End to End testing
-  - Snapshot testing
-  - Visual regression testing
-  - Performance testing
+  - Validation testing
+  - Functional and system testing
+  - Acceptance testing
 
 - Screenshots of testing with different data values and software/hardware specifications
 
@@ -262,14 +261,12 @@ The Google collabs can be accessed directly on GitHub, too
 - Among proposed functional features, I missed incorporating:
   - User Testimonials
   - Multi-organ identification(partially fulfilled based on available data)
-  - Offline mode for plant identification
+  - Offline mode for plant identification(partially fulfilled)
   - Allowing users to bookmark their favourite identified plants
 - Among non-functional requirements, I missed incorporating:
   - Plant identification processing in <5 seconds because of using render free tier
-  - Screen readers for visually impaired people
-  - App does not support iOS
 - Among ethical considerations, I missed incorporating:
-  - Data retention policy
+  - Data retention policy where EXIF metadata of images is not deleted leaving orphaned images that might pose a privacy risk for users.
   - Giving benefit-sharing clause to community herbalists to sign
   - Local processing of sensitive data
 
