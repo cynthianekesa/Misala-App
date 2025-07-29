@@ -283,6 +283,7 @@ The Google collabs can be accessed directly on GitHub, too
   - Pharmacological Studies: Supporting pharmacologists in understanding the therapeutic properties of different plants for drug discovery and development.
   - Medical Education: Providing educational resources for students and healthcare professionals to learn about medicinal plants and their uses.
   - Consumer Safety: Ensuring consumers can accurately identify and use medicinal plants without the risk of misidentification or harmful effects.
+  - Policy: The data collected on plant identification will form a basis for policy change lobbying especially by PPB on medicinal plant identification.
 
 - *Future Work*
   - Showing active ingredients and constituents of the medicinal plants.
