@@ -273,7 +273,7 @@ The Google collabs can be accessed directly on GitHub, too
 **C. Discussion**
 - A detailed discussion on the importance of the milestones and the impact of the results with the supervisor can be found in the link below under meeting 3.
 
-  - https://docs.google.com/document/d/1YIj5ygNOFcORUX8FpwQec8UcGWwMOHqyCTcVhAcK0jo/edit?usp=sharing
+  - https://docs.google.com/document/d/1zoovm79Zu9TCdCVArX02mDoL61rdjtsBbtltuT54Ogo/edit?usp=sharing
 
 **D. Recommendations**
 
