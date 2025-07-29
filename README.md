@@ -204,7 +204,8 @@ The Google collabs can be accessed directly on GitHub, too
 - Average reward over 10 episodes:
 - Intepretation of graph can be found in the research report.
 
-![WhatsApp Image 2025-07-23 at 19 03 00_27b71224](https://github.com/user-attachments/assets/7a10b20f-86cd-4355-8522-ade676fda630)
+<img width="862" height="547" alt="image" src="https://github.com/user-attachments/assets/656715ba-5bcc-4c2d-bb6a-dd4de07ad210" />
+
  
 ### Misala Mobile App
 
