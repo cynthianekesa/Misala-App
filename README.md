@@ -261,10 +261,10 @@ The Google collabs can be accessed directly on GitHub, too
 - Among proposed functional features, I missed incorporating:
   - User Testimonials
   - Multi-organ identification(partially fulfilled based on available data)
-  - Offline mode for plant identification(partially fulfilled)
+  - Full offline capability(MisalaBot is accessible online only)
   - Allowing users to bookmark their favourite identified plants
 - Among non-functional requirements, I missed incorporating:
-  - Plant identification processing in <5 seconds because of using render free tier
+  - Plant identification processing in <5 seconds because of using render free tier 
 - Among ethical considerations, I missed incorporating:
   - Data retention policy where EXIF metadata of images is not deleted leaving orphaned images that might pose a privacy risk for users.
   - Giving benefit-sharing clause to community herbalists to sign
