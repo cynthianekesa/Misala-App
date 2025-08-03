@@ -197,12 +197,11 @@ The Google collabs can be accessed directly on GitHub, too
 
 <img width="518" height="528" alt="image" src="https://github.com/user-attachments/assets/94ecd5a8-8424-4890-8617-59e3ef05f0ee" />
 
-- Saved PPO model trained on Cnn policy under epsilon-greedy Q algorithmn is saved in the `Drone Simulation` folder together with the logs, checkpoints and tensorboard progress.
+- Saved PPO model trained on Mlp vector policy under epsilon-greedy Q algorithmn is saved in the `Drone Simulation` folder together with the logs, checkpoints and tensorboard progress.
 
-- Drone plant identification using saved policy in a gif is found in the `Data` folder. This gif shows the potential of using ML together with drone technology to enable identification of ATM in places where phones can't be used. Building upon this would be to fine-tune the PPO policy to perform even better.
+- Drone plant identification using saved policy in a gif is found in the `Drone Simulation` folder too. This gif shows the potential of using ML together with drone technology to enable identification of ATM in places where phones can't be used. Building upon this would be to fine-tune the PPO policy to perform even better.
 
-- Average reward over 10 episodes:
-- Intepretation of graph can be found in the research report.
+- Reward during training: Intepretation of graph can be found in the research report.
 
 <img width="862" height="547" alt="image" src="https://github.com/user-attachments/assets/656715ba-5bcc-4c2d-bb6a-dd4de07ad210" />
 
@@ -262,17 +261,17 @@ The Google collabs can be accessed directly on GitHub, too
 - Among proposed functional features, I missed incorporating:
   - User Testimonials
   - Multi-organ identification(partially fulfilled based on available data)
-  - Offline mode for plant identification(partially fulfilled)
+  - Full offline capability(MisalaBot is accessible online only)
   - Allowing users to bookmark their favourite identified plants
 - Among non-functional requirements, I missed incorporating:
-  - Plant identification processing in <5 seconds because of using render free tier
+  - Plant identification processing in <5 seconds because of using render free tier 
 - Among ethical considerations, I missed incorporating:
   - Data retention policy where EXIF metadata of images is not deleted leaving orphaned images that might pose a privacy risk for users.
   - Giving benefit-sharing clause to community herbalists to sign
   - Local processing of sensitive data
 
 **C. Discussion**
-- A detailed discussion on the importance of the milestones and the impact of the results with the supervisor can be found in the link below under meeting 3.
+- A detailed discussion on the importance of the milestones and the impact of the results with the supervisor can be found in the link below:
 
   - https://docs.google.com/document/d/1zoovm79Zu9TCdCVArX02mDoL61rdjtsBbtltuT54Ogo/edit?usp=sharing
 
