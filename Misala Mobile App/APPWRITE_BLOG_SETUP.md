@@ -1,7 +1,7 @@
 # Appwrite Blog System Setup Guide
 
 ## Overview
-This guide will help you set up the blog system in Appwrite for your plant health app.
+This guide will help you set up the blog system in Appwrite the Misala app.
 
 ## Prerequisites
 - Appwrite account and project already created
@@ -146,10 +146,10 @@ Check your Appwrite console to ensure:
 
 1. **"Collection not found"** - Check collection IDs match exactly in `lib/blogConfig.ts`
 2. **"Permission denied"** - Most common issue. Check the following:
-   - ✅ Collection has "Create" permission for "Users" role
-   - ✅ Collection has "Read" permission for "Any" role
-   - ✅ User is authenticated (check `useAuthStore`)
-   - ✅ User session is valid
+   - Collection has "Create" permission for "Users" role
+   - Collection has "Read" permission for "Any" role
+   - User is authenticated (check `useAuthStore`)
+   - User session is valid
 3. **"Attribute not found"** - Ensure all attributes are created with correct names and types
 4. **"Database not found"** - Update `BLOG_DATABASE_ID` with your actual database ID
 5. **"Index not found"** - Create the required indexes for search functionality

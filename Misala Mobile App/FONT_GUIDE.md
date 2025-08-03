@@ -1,7 +1,7 @@
 # Poppins Font Usage Guide
 
 ## Available Fonts
-Your app now uses Poppins font family with these variants:
+Misala app now uses Poppins font family with these variants:
 - **Poppins-Regular.ttf** - For normal text
 - **Poppins-Medium.ttf** - For medium weight text (buttons, labels)
 - **Poppins-Bold.ttf** - For headings and emphasis

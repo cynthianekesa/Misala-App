@@ -13,9 +13,9 @@
       "android": {
         "buildType": "apk",
         "env": {
-          "EXPO_PUBLIC_APPWRITE_PROJECT_ID": "687667cd00185d00e40c",
+          "EXPO_PUBLIC_APPWRITE_PROJECT_ID": "6876693e003df851da66",
           "EXPO_PUBLIC_APPWRITE_ENDPOINT": "https://fra.cloud.appwrite.io/v1",
-          "EXPO_PUBLIC_APPWRITE_BUNDLE_ID": "com.andama.misala"
+          "EXPO_PUBLIC_APPWRITE_BUNDLE_ID": "com.cynthianekesa.misala"
         }
       }
     },

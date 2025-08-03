@@ -1,6 +1,6 @@
-# 🌿 Plant Information System - Implementation Complete
+# Misala App - Implementation Complete
 
-## ✅ What We've Built
+## What We've Built
 
 ### 1. **Plant Information Database System**
 - **Plant Info Service** (`lib/plantInfoConfig.ts`): Complete Appwrite integration for plant data
@@ -16,7 +16,7 @@
 - **Import Screen** (`app/import-data.tsx`): Easy way to add your CSV data to the database
 - **Sample Data**: Pre-loaded with your Aloe vera, Amaranthus, and Basale examples
 
-## 🚀 Next Steps to Complete Setup
+## Next Steps to Complete Setup
 
 ### Step 1: Create Appwrite Collection
 1. Go to **Appwrite Console** → **Database** → **Your Database**
@@ -49,7 +49,7 @@ With your actual collection ID from Appwrite Console.
 2. Click "Import Sample Data" to add the initial plant information
 3. Add more plants as needed
 
-## 🎯 How It Works
+## How It Works
 
 ### User Journey:
 1. **Take/Select Photo** → **Get Prediction** → **See Results**
@@ -57,19 +57,19 @@ With your actual collection ID from Appwrite Console.
 3. **Learn about ailments, preparation, dosage, and more**
 
 ### Features:
-- ✅ **Seamless Integration**: Works with existing prediction system
-- ✅ **Beautiful UI**: Consistent Poppins fonts and modern design
-- ✅ **Educational Content**: Detailed plant information including:
+- **Seamless Integration**: Works with existing prediction system
+- **Beautiful UI**: Consistent Poppins fonts and modern design
+- **Educational Content**: Detailed plant information including:
   - Common & scientific names
   - Local Luhya names
   - Ailments treated
   - Preparation methods
   - Dosage instructions
   - Safety warnings
-- ✅ **Easy Data Management**: Import tool for adding CSV data
-- ✅ **Error Handling**: Graceful handling of missing plant information
+- **Easy Data Management**: Import tool for adding CSV data
+- **Error Handling**: Graceful handling of missing plant information
 
-## 📊 Current Plant Data Structure
+## Current Plant Data Structure
 
 Your CSV data is now structured as:
 ```
@@ -82,14 +82,14 @@ Method of Preparation → preparation_method
 Dosage → dosage
 ```
 
-## 🔄 Adding More Plants
+## Adding More Plants
 
 To add more plants from your CSV:
 1. Use the import tool (`/import-data`)
 2. Or manually add through Appwrite Console
 3. Or extend the import tool with your full CSV data
 
-## 🎨 UI Improvements Made
+## UI Improvements Made
 
 - **Consistent Typography**: All screens now use Poppins fonts
 - **Better Color Scheme**: Updated to use primary green (#008000)
@@ -97,4 +97,4 @@ To add more plants from your CSV:
 - **Professional Plant Detail Layout**: Card-based design with clear sections
 - **Safety Warnings**: Important medical disclaimers included
 
-The plant information system is now fully integrated and ready to provide users with detailed, educational content about the plants they identify! 🌱
+The plant information system is now fully integrated and ready to provide users with detailed, educational content about the plants they identify! 

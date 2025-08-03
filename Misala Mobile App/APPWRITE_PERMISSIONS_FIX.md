@@ -1,4 +1,4 @@
-# 🔐 Appwrite Permissions Fix Guide
+# Appwrite Permissions Fix Guide
 
 ## Step 1: Reset Blog Likes Collection Permissions
 

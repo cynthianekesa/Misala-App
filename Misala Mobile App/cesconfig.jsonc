@@ -20,7 +20,7 @@
       "type": "state-management"
     },
     {
-      "name": "supabase",
+      "name": "appwrite",
       "type": "authentication"
     }
   ],
