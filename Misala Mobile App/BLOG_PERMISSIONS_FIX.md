@@ -37,7 +37,7 @@ You can like and comment on your own blogs but not on other users' blogs. This i
    - **Update**: Leave empty (only blog author can update)
    - **Delete**: Leave empty (only blog author can delete)
 
-## 🔍 **Why This Happens**
+## **Why This Happens**
 
 - **Your own blogs**: Document-level permissions allow you to interact with your own content
 - **Other users' blogs**: Collection-level permissions control if you can create likes/comments on ANY blog
